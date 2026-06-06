@@ -4,4 +4,4 @@ This repository contains my Power BI certificate.
 
 ## Certificate
 
-[View Power BI Certificate](./powerbi_certificate.pdf)
+![Power BI Certificate](./powerbi_certificate.png)
